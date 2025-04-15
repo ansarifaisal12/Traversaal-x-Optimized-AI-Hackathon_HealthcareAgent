@@ -14,7 +14,7 @@ A Streamlit-based AI healthcare assistant with Traversaal integration for enhanc
 
 1. Clone this repository:
 ```
-git clone https://github.com/your-username/healthguard.git
+git remote add origin https://github.com/ansarifaisal12/Traversaal-x-Optimized-AI-Hackathon_HealthcareAgent.git
 cd healthguard
 ```
 
