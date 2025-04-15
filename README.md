@@ -90,6 +90,4 @@ streamlit run app.py
 - Google Gemini or OpenAI for the core AI model
 - SQLite for local data storage
 
-## Note
-
-This application is for informational purposes only and should not replace professional medical advice. 
+. 
